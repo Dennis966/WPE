@@ -1,6 +1,6 @@
 # Weighted Prediction Error (WPE)
 ## Content:
-An algorithm that performs dereverbertion via a linear prediction model of reverberant rooms.
+An algorithm that performs dereverbertion based on a linear prediction model of reverberant rooms.
 
 ## Reference:
 
